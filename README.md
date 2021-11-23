@@ -5,3 +5,4 @@
 ### Tools: Pycharm IDE, ESRI ArcGIS Online Map Viewer/Dashboards
 ### Data Gathering and Cleaning: getData.py
 ### Dashboard: https://clemson.maps.arcgis.com/apps/dashboards/9cde578c3b34423f924a460fc1f4c5ac
+### Presentation: https://docs.google.com/presentation/d/1QuthfPrZINsVEPSyO6O7RQY_7_ntA2bgbBCS1gBPQgk/edit?usp=sharing
